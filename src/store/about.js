@@ -5,6 +5,6 @@ export default {
     email: 'shanai01@outlook.kr',
     github: 'https://github.com/eunseo92',
     phone: '+82-10-3123-9500',
-    image: '/src/assets/Eunseo.png'
+    image: 'src/assets/Eunseo.png'
   })
 }
